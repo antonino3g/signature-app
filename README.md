@@ -9,7 +9,7 @@
 
 # Signature App
 
-📱✏️ Um simples aplicativo que captura a assinatura na tela do celular, mostra um preview e salva na memória interna do dispositivo. Feito em Flutter.
+📱✏️ Um simples aplicativo que captura a assinatura na tela do celular, mostra um preview e salva na memória interna do dispositivo.
 
 Screen 01          |  Screen 02          |  Screen 03
 :-------------------------:|:-------------------------:|:-------------------------:|
